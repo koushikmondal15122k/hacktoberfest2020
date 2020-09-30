@@ -1,13 +1,12 @@
-# hacktoberfest2020
-Get started with hacktoberfest and make your first PR here
+# hacktoberfest2020 🌟
 
-Simply add your full name and the link to your github profile to Participants.txt 
+Get started with <strong>hacktoberfest</strong> and make your first PR here
+
+Simply add your <i>full name</i> and the <i>link to your github profile</i> to Participants.txt 
 and maybe checkout the other people who've added their names and the open source
 contributions they've made so far by visiting their profiles.
 
-.
-
-Other additional useful links:
+### Other additional useful links:
 
 Learn what exactly is GitHub here:
 https://devbae.tech/git-it-p1/
